@@ -1,0 +1,48 @@
+[2022-06-28 21:15:57] local.INFO: 
+url:
+httpCode:
+Info:
+Request:{"type":"SMS","telco":"MTN","action":"NONE","shortcode":"44000","product":{"id":1,"name":"HML","identity":"PD-16468241771000","type":"SUBSCRIPTION","subscription_type":"ONETIME_AND_RECURRING","status":"LIVE"},"details":{"message":"\u0005\u0000\u0003_\u0002\u0001twist rain amused domain proud across retire forward able guitar junior table control walk involve recipe symbol entire churn awesome caution picnic scat","phone":"2348167031996","date":"2022-06-28 21:15:57"}}
+Response:
+
+  
+[2022-06-28 21:16:04] local.INFO: 
+url:
+httpCode:
+Info:
+Request:{"type":"SMS","telco":"MTN","action":"NONE","shortcode":"44000","product":{"id":1,"name":"HML","identity":"PD-16468241771000","type":"SUBSCRIPTION","subscription_type":"ONETIME_AND_RECURRING","status":"LIVE"},"details":{"message":"\u0005\u0000\u0003_\u0002\u0002ter stomach","phone":"2348167031996","date":"2022-06-28 21:16:04"}}
+Response:
+
+  
+[2022-06-28 21:22:20] local.INFO: 
+url:
+httpCode:
+Info:
+Request:{"type":"SMS","telco":"MTN","action":"NONE","shortcode":"44000","product":{"id":1,"name":"HML","identity":"PD-16468241771000","type":"SUBSCRIPTION","subscription_type":"ONETIME_AND_RECURRING","status":"LIVE"},"details":{"message":"gdalzyewhsopvjlpec7mkfn37ibbw3hhegf4hs6g5xytf7oyvototpks","phone":"2348167031996","date":"2022-06-28 21:22:20"}}
+Response:
+
+  
+[2022-06-28 21:26:14] local.INFO: 
+url:
+httpCode:
+Info:
+Request:{"type":"SMS","telco":"MTN","action":"NONE","shortcode":"44000","product":{"id":1,"name":"HML","identity":"PD-16468241771000","type":"SUBSCRIPTION","subscription_type":"ONETIME_AND_RECURRING","status":"LIVE"},"details":{"message":"\u0005\u0000\u0003`\u0002\u0001twist rain amused domain proud across retire forward able guitar junior table control walk involve recipe symbol entire churn awesome caution picnic scat","phone":"2348167031996","date":"2022-06-28 21:26:14"}}
+Response:
+
+  
+[2022-06-28 21:26:14] local.INFO: 
+url:
+httpCode:
+Info:
+Request:{"type":"SMS","telco":"MTN","action":"NONE","shortcode":"44000","product":{"id":1,"name":"HML","identity":"PD-16468241771000","type":"SUBSCRIPTION","subscription_type":"ONETIME_AND_RECURRING","status":"LIVE"},"details":{"message":"\u0005\u0000\u0003`\u0002\u0002ter stomach","phone":"2348167031996","date":"2022-06-28 21:26:14"}}
+Response:
+
+  
+[2022-06-28 21:26:18] local.INFO: 
+url:
+httpCode:
+Info:
+Request:{"type":"SMS","telco":"MTN","action":"NONE","shortcode":"44000","product":{"id":1,"name":"HML","identity":"PD-16468241771000","type":"SUBSCRIPTION","subscription_type":"ONETIME_AND_RECURRING","status":"LIVE"},"details":{"message":"me08+8afkruosdwwznhhii8n62cjttekheunctxovqm4tzjm3znonol+tm+mssbndtbvtmzr0uydyhe\/ntgjdg==","phone":"2348167031996","date":"2022-06-28 21:26:18"}}
+Response:
+
+  

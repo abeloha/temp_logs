@@ -1,0 +1,8 @@
+[2022-07-11 20:04:50] local.INFO: 
+url:https://prod-nigeria.api.mtn.com/v2/customers/2347062990990/subscriptions/234012000025894?subscriptionProviderId=CSM&nodeId=HML&description=23401220000030587
+httpCode:200
+Info:
+Request:{"url":"https:\/\/prod-nigeria.api.mtn.com\/v2\/customers\/2347062990990\/subscriptions\/234012000025894?subscriptionProviderId=CSM&nodeId=HML&description=23401220000030587"}
+Response:{"subscriptionId":"234012000025894","status":"Ok, Accepted","description":"Ok, Accepted","links":[],"statusCode":"0000","statusMessage":"3021 Ok, Accepted","transactionId":"016575698890000270923"}
+
+  
